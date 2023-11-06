@@ -114,6 +114,7 @@ public class BoardController {
 		logger.info("/board/board [GET]");
 		System.out.println("우왕 굿 ㅋ");
 		System.out.println("이것참 많은게다");
+		System.out.println("허허 어렵구먼");
 	}
 	
 }
