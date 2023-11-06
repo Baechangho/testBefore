@@ -13,6 +13,7 @@ import board.service.face.BoardService;
 @RequestMapping("/board")
 public class BoardController {
 
+	//시러여
 	private final Logger logger = LoggerFactory.getLogger( this.getClass() );
 	
 	@Autowired BoardService boardService;
