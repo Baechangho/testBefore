@@ -17,6 +17,8 @@ public class BoardController {
 	
 	@Autowired BoardService boardService;
 	
+	//추가한 주석
+	
 	@GetMapping("/board")
 	public void board() {
 		logger.info("/board/board [GET]");
