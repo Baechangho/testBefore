@@ -89,6 +89,7 @@ public class BoardController {
 	@GetMapping("/board")
 	public void board() {
 		logger.info("/board/board [GET]");
+		System.out.println("우왕 굿 ㅋ");
 	}
 	
 }
