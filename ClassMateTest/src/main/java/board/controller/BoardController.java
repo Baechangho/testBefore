@@ -21,6 +21,7 @@ public class BoardController {
 	//추가한 주석
 	
 	//또 추가한 주석
+	//ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 아 그만하고 싶음 ㅋ
 	
 	@GetMapping("/board")
 	public void board() {
