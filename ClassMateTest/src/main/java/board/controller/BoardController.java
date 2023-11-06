@@ -113,6 +113,7 @@ public class BoardController {
 	public void board() {
 		logger.info("/board/board [GET]");
 		System.out.println("우왕 굿 ㅋ");
+		System.out.println("이것참 많은게다");
 	}
 	
 }
